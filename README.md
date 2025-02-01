@@ -7,3 +7,5 @@
 # main-edit
 
 # another change
+
+# merge conflict
